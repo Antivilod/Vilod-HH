@@ -1,0 +1,350 @@
+{
+  "schema": 1,
+  "version": "0.13.14",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 73,
+      "sha256": "8fb0dbe93e56a748d5f6c5d7b98a441e58e338a1701398073296668cd30afaa4"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 662,
+      "sha256": "7f9b2c64f775098559c3bfdba8c8f954b229b0930b05d345957c74e5e9b0abfe"
+    },
+    {
+      "path": "audit/PREPARATION-REPORT.txt",
+      "bytes": 3199,
+      "sha256": "f5a440539fdb9ef0d941de29fded186c848dbeabcded451069ccf02250cb47b1"
+    },
+    {
+      "path": "audit/PUBLICATION-AUDIT.md",
+      "bytes": 8599,
+      "sha256": "52c28aa49b99dc7b734513613c71e55f9018bae697e3beedbd12be5394204f99"
+    },
+    {
+      "path": "exchange-template/Обмен HH/vilod-hh-exchange-root.json",
+      "bytes": 102,
+      "sha256": "c5c469403e9a70fe4553f9217e50f10a219366c3a17c20b036708ad5187481f0"
+    },
+    {
+      "path": "exchange-template/Обмен HH/Архив/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exchange-template/Обмен HH/На HH/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exchange-template/Обмен HH/На анализ/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "exchange-template/Обмен HH/Результаты/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "extension/answers.mjs",
+      "bytes": 2235,
+      "sha256": "cc454811a949283d0aab4023911890d8deae045c2d57eb05d63191b32d8b9d15"
+    },
+    {
+      "path": "extension/batch.mjs",
+      "bytes": 2241,
+      "sha256": "01a22f920929df4c667e5db69605c083f45bf0ed2a65df89fcbde38f1ca8570f"
+    },
+    {
+      "path": "extension/card-ready.mjs",
+      "bytes": 3300,
+      "sha256": "33f511e5d089de68168adb345ab8491f9c6031056323a9eeb5e9f2632a3084ac"
+    },
+    {
+      "path": "extension/company-reader.mjs",
+      "bytes": 3976,
+      "sha256": "b4a580d092e88ed3da1cc2bbdc784ff5f9d4c9119083a167aaa58c8a10ef241c"
+    },
+    {
+      "path": "extension/company.mjs",
+      "bytes": 892,
+      "sha256": "a9b7692bae5fbe5f5fc361b291e589ad61ce38e5e81a0582cb2ece57dec9efd7"
+    },
+    {
+      "path": "extension/dashboard.html",
+      "bytes": 8203,
+      "sha256": "ce9316e0341006c67b237734cd9dd447d051014b50088c51f3e028b8fa331a23"
+    },
+    {
+      "path": "extension/dashboard.mjs",
+      "bytes": 26199,
+      "sha256": "b6ea935419deb1499a7b68ae119998cbdefbf571e8d0d5cb0a3d332163aa9f72"
+    },
+    {
+      "path": "extension/exchange.mjs",
+      "bytes": 11054,
+      "sha256": "90c7c5d86f8ff4ce136b65a1492ff7d20cab09d412e43993966db21addeb04bb"
+    },
+    {
+      "path": "extension/extract.mjs",
+      "bytes": 1795,
+      "sha256": "0bf87af44aad32ca34633bed5fb5522233300933e0a1039dc9eb857f2ad91acf"
+    },
+    {
+      "path": "extension/fill-answers.mjs",
+      "bytes": 13748,
+      "sha256": "5ac7be79d29e93c7cc358e92301fa699a76130025645a48248647deee5fd5b71"
+    },
+    {
+      "path": "extension/folder-exchange.mjs",
+      "bytes": 9542,
+      "sha256": "076cb0714815e5ee7f992b28f907e2786cbf56b2c65d72492fbd04c656384e43"
+    },
+    {
+      "path": "extension/folder-handle-store.mjs",
+      "bytes": 1594,
+      "sha256": "e373b7293b880e330b9b6622fbab007f994bb091da2e8b4fa77169cde8086bf7"
+    },
+    {
+      "path": "extension/folder-panel.mjs",
+      "bytes": 8683,
+      "sha256": "8f9a4b9ee907944a6892741a8f1d07446481586d073c8648bff827e88027d081"
+    },
+    {
+      "path": "extension/folder-preferences.mjs",
+      "bytes": 851,
+      "sha256": "03a240a7740a0c194bcfa38a1e1907c2627767240a3e837b1eaa081483e54bcd"
+    },
+    {
+      "path": "extension/history.mjs",
+      "bytes": 3273,
+      "sha256": "46dccd23375429467cd672fb1ed6ae48897836788a05aea9ef2604e686e515d9"
+    },
+    {
+      "path": "extension/icons/icon128.png",
+      "bytes": 3870,
+      "sha256": "205cb764bf50e261eed85471089966c5e3e2d1ec8367515fa386cc73162a72a1"
+    },
+    {
+      "path": "extension/icons/icon16.png",
+      "bytes": 589,
+      "sha256": "680b952ea4184dd1649dd218d092e9a2bb7112c8a0a02272156eb7ba68058c5b"
+    },
+    {
+      "path": "extension/icons/icon256.png",
+      "bytes": 7534,
+      "sha256": "ecd63dd1bd76de259e4225d91f51cae081a8e3bdd013ee1faf22e19c6a26dfb8"
+    },
+    {
+      "path": "extension/icons/icon32.png",
+      "bytes": 1136,
+      "sha256": "362dbb15d73300831824cc52854eebd6842ea3458b7db64b2e8c77ae1c01474c"
+    },
+    {
+      "path": "extension/icons/icon48.png",
+      "bytes": 1721,
+      "sha256": "f05abd0bf5d49627067c88adbebe149c221b95dea698cba66c4a72c9030e32ab"
+    },
+    {
+      "path": "extension/insert-letter.mjs",
+      "bytes": 3028,
+      "sha256": "b89a7572559d43784c6bbd8c271cee1bad61ec038dc4c225abe7e34862e425a4"
+    },
+    {
+      "path": "extension/LICENSE-kostindata.txt",
+      "bytes": 1067,
+      "sha256": "98a0d4806dbb1309f0ba2980c2c499971f951748f77330e855e4b3236b7973ba"
+    },
+    {
+      "path": "extension/LICENSE-singhkritesh.txt",
+      "bytes": 1070,
+      "sha256": "bb3a2b750d831f3b7b5d0b4eb62eb42e1eb7968ab408300fab7182cb87672e21"
+    },
+    {
+      "path": "extension/local-store.mjs",
+      "bytes": 11065,
+      "sha256": "e80b69639241ba2ad3f2176cf173a4e454cc266014eaed97342d0c7cd99ca6ce"
+    },
+    {
+      "path": "extension/manifest.json",
+      "bytes": 819,
+      "sha256": "b1383a19a10807d4b2e84ffbf40c11e2e229abd840a1f31ee8850e6e2232e1f0"
+    },
+    {
+      "path": "extension/observation-times.mjs",
+      "bytes": 1184,
+      "sha256": "03f2e5e1137b17f59616905f018bca04753a13d5ec93813ea7ecbee76c69b659"
+    },
+    {
+      "path": "extension/operator-report.mjs",
+      "bytes": 13579,
+      "sha256": "b4380fcd43b2bc31f80ef64acddd5d1bbc30ddfecdbb1d09a2b70c6c18bd3774"
+    },
+    {
+      "path": "extension/popup.html",
+      "bytes": 2011,
+      "sha256": "8f448e5b53c5f1b8a09d30bfc3ed920df64464928f71a794cbd2f6380e17cb45"
+    },
+    {
+      "path": "extension/popup.js",
+      "bytes": 8931,
+      "sha256": "ea823b57d76c9ca1da7a8533347870b94d0dc87b7db6dcf73586bbdea76c2c09"
+    },
+    {
+      "path": "extension/preparation.mjs",
+      "bytes": 8065,
+      "sha256": "370dff04e552ab0a87df98147675534fc03ea802df21670a9e082efc46d4a272"
+    },
+    {
+      "path": "extension/profile.mjs",
+      "bytes": 1268,
+      "sha256": "6db944b764640f151fee0d17bbd41aeed5b5ca803b9a94ec443d480e472eb59a"
+    },
+    {
+      "path": "extension/questions.mjs",
+      "bytes": 2615,
+      "sha256": "50d85008bb84c6414d2126501ccaf9a1eaefa41720c26793f40bbfde27b93557"
+    },
+    {
+      "path": "extension/read-flow.mjs",
+      "bytes": 1436,
+      "sha256": "963db39c9c99e3f5feaef83668d78c9bf68f95d1d79f942fd133f226ebad9680"
+    },
+    {
+      "path": "extension/recovery-locks.mjs",
+      "bytes": 1710,
+      "sha256": "5f47f515b0e69436d6e9d01cb197d322aa5495f11a6b092a3ec3d3797a00ef5b"
+    },
+    {
+      "path": "extension/release-ready.json",
+      "bytes": 4976,
+      "sha256": "8f9289b666918d48c12a5ee58f8085281f1d24c6dce253071ff6c166606b8129"
+    },
+    {
+      "path": "extension/response-evidence.mjs",
+      "bytes": 4221,
+      "sha256": "475d00594f9eff8e7edbdc971e1eb0940003d2280a6b606b60a54744c9fcc304"
+    },
+    {
+      "path": "extension/restore.mjs",
+      "bytes": 6778,
+      "sha256": "bd3de9298142097684767063ba97e2c705305e96199f581a2152d954e04d423e"
+    },
+    {
+      "path": "extension/run-preparation.mjs",
+      "bytes": 1049,
+      "sha256": "e3ab3e61592449b529bd993bb2dc4fcedb36c08d1700d4a28f8ac94671afb3fe"
+    },
+    {
+      "path": "extension/runner.html",
+      "bytes": 1934,
+      "sha256": "073d5aaedf40c7da9e2fb73874acae9e5a7313416810f9145e5bf8c963c8f466"
+    },
+    {
+      "path": "extension/runner.mjs",
+      "bytes": 7043,
+      "sha256": "652d017f71fa8434738e02ebc09f670ce0d8118184e633b0bbd37f4dd935e062"
+    },
+    {
+      "path": "extension/search-plan.mjs",
+      "bytes": 608,
+      "sha256": "dd036d1eba906b83ddfbe817ccfc0a8ad0454e0e9baf44d972aef8c44439586c"
+    },
+    {
+      "path": "extension/search.mjs",
+      "bytes": 812,
+      "sha256": "68aac727d6d6cc3e85fe2b6fab4719614cdb8170925bfd7a63586b076724e403"
+    },
+    {
+      "path": "extension/self-update-core.mjs",
+      "bytes": 7598,
+      "sha256": "e49bc9cd026f364c8efc6cc027cfd1faadb9f8e2b5b47897debb9c5ad7bf5641"
+    },
+    {
+      "path": "extension/self-update-panel.mjs",
+      "bytes": 8179,
+      "sha256": "66e110456318e9088f649bbf219d7845eccc22101aff622aa4b4c07774849efb"
+    },
+    {
+      "path": "extension/self-update.mjs",
+      "bytes": 5264,
+      "sha256": "27a437092bb896742a28c6e49023881d95d329697a33a4321fbb77b40fc41b9f"
+    },
+    {
+      "path": "extension/styles.css",
+      "bytes": 5161,
+      "sha256": "985ffd583d5beb534833724d76d5ce77f38bac9cf0cf4c918f62e1dea5fa4078"
+    },
+    {
+      "path": "extension/THIRD_PARTY_NOTICES.txt",
+      "bytes": 921,
+      "sha256": "f09e1cd12cdac5d36907b07821d822f8c673f980c20a2cb9c49802369fc83c6a"
+    },
+    {
+      "path": "extension/transport.mjs",
+      "bytes": 238,
+      "sha256": "c691d22b7974cd3f4e9071c94aa276922f2163da788f2903f2f397b7c249333c"
+    },
+    {
+      "path": "extension/triage.mjs",
+      "bytes": 2799,
+      "sha256": "c48fa13c78a645bfce81a8b00b5462d94cd7e9d4f42b5e6432f1eefe07c2548f"
+    },
+    {
+      "path": "extension/user-decision.mjs",
+      "bytes": 668,
+      "sha256": "824a7f1836c54f0a35fc53f92a2add54dc0e169ed36cfc053f375ff7316be35d"
+    },
+    {
+      "path": "extension/version.mjs",
+      "bytes": 32,
+      "sha256": "cd8aef7efe92daa40d0ad8b1b214d8b8298d76b3eda63bdbe6159a785e51ec81"
+    },
+    {
+      "path": "extension/visual-form.mjs",
+      "bytes": 3416,
+      "sha256": "bdfccc48062c6f82acca688090ce0f86f032378083fcffef33af2124b5802130"
+    },
+    {
+      "path": "extension/work-queue.mjs",
+      "bytes": 3836,
+      "sha256": "d15fa7cb6ebeda98f6149cd2ad38efe3a912545271b3f7fcc01140a3e95fe0fa"
+    },
+    {
+      "path": "extension/worker.mjs",
+      "bytes": 6237,
+      "sha256": "ff004b80a6a53171a433ed4f5f81fab8addc9b66de69160a31417f3f4e28f462"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1099,
+      "sha256": "4eb8f77c2dff8f38507522d73040dafe20443ebec0b509c3988ed00c7dc84986"
+    },
+    {
+      "path": "PRIVACY.md",
+      "bytes": 2246,
+      "sha256": "505fd4193d86aded0279bc543952bb8f1752be01cc679e610ca1f701e2b205c0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9709,
+      "sha256": "48d2053e74c61157dfc0c4fc3d56340fa86ba44ef1253eec9966d9716b648629"
+    },
+    {
+      "path": "tools/check-public.mjs",
+      "bytes": 2482,
+      "sha256": "47e70e691f47734c096ad86edf97355973a9216f359692ddf0044dc491d8793e"
+    },
+    {
+      "path": "tools/rebuild-release.mjs",
+      "bytes": 818,
+      "sha256": "3be7f1a0f39ed4a9c7793853373fd8ae8347c6aa47f8aa685549e74100cb88f6"
+    }
+  ],
+  "filesCount": 68,
+  "excludes": [
+    "audit/INVENTORY.json (self)"
+  ]
+}
