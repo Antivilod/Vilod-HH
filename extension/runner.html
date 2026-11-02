@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><title>Vilod HH - чтение</title><link rel="stylesheet" href="styles.css"></head>
+<body class="runner">
+<header><img src="icons/icon48.png" width="48" height="48" alt=""><div><h1>Vilod HH</h1><p>Чтение очереди - без отправки откликов</p></div></header>
+<section class="card"><h2>Проверочная серия</h2>
+<p>До пяти полных карточек за запуск. Ссылки добавляются кнопкой расширения из открытой выдачи HH. Прямой импорт Excel здесь пока не подключён. Карточки останутся в Chrome для проверки.</p>
+<p>Запуск разрешает чтение очереди. После серии или остановки очередь снова ставится на паузу. Сохранённые карточки останутся в базе. Для передачи помощнику выгрузите очередь на анализ из рабочей панели.</p>
+<button id="start" class="primary">Запустить чтение до 5 карточек</button>
+<button id="stop" style="margin-top:10px">Остановить чтение</button></section>
+<section class="card"><h2>Ход работы</h2><pre id="log" role="log" aria-live="polite"></pre></section>
+<details><summary>Диагностика доступа</summary><p>Проверяется только публичный поиск API из Chrome. Авторизация и отправка этим не проверяются.</p><button id="api">Проверить публичный API HH</button></details>
+<footer>Защита Windows и VPN не изменяются. Проверки сайта не обходятся.</footer>
+<script type="module" src="runner.mjs"></script></body></html>
+

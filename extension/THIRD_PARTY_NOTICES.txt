@@ -1,0 +1,14 @@
+Vilod HH uses an adapted portion of:
+https://github.com/kostindata/hh-cover-letter-extension
+File: content.js, functions findVisibleLetterField / insertLetter.
+Copyright (c) 2026 kostindata. MIT License.
+Full license: LICENSE-kostindata.txt.
+
+Adaptation: strict vacancy URL/ID checks, unique visible field, no overwriting a different draft, no truncation, no submission, reviewed imported letter only. API generation, API key storage, inline generator and provider permissions are not included.
+
+Native select option assignment in fill-answers.mjs adapted from:
+https://github.com/singhkritesh/job_app_autofill
+File: content/filler.js, fillSelect.
+Copyright (c) 2026 Kritesh Singh. MIT License.
+Full license: LICENSE-singhkritesh.txt.
+Adaptation: exact unique label and value only, no fuzzy matching, disabled options and multiple selects rejected, preserve different existing answers, no submission or checkbox consent.
