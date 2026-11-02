@@ -1,0 +1,52 @@
+# Runtime/user data - never commit
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+node_modules/
+backups/
+exports/
+downloads/
+private/
+*backup*.json
+*restored*.json
+exchange-*.json
+batch-*.json
+operator-*.json
+*-current.json
+legacy-history-seed.json
+**/На анализ/**
+**/На HH/**
+**/Результаты/**
+**/Архив/**
+*.xlsx
+*.csv
+*.tsv
+*.zip
+.DS_Store
+Thumbs.db
+
+!**/На анализ/.gitkeep
+!**/На HH/.gitkeep
+!**/Результаты/.gitkeep
+!**/Архив/.gitkeep
+
+# Additional local settings, certificates and development output
+*.cer
+*.crt
+*.p7b
+*.p7c
+*.p7s
+*.der
+*.snk
+*.bak
+*.tmp
+*.user
+.vscode/
+.idea/
+coverage/
+TestResults/
