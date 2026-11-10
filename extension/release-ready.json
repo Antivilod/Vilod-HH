@@ -1,7 +1,7 @@
 {
   "format": "vilod-hh-release",
   "schema": 1,
-  "version": "0.13.14",
+  "version": "0.13.15",
   "files": {
     "LICENSE-kostindata.txt": "98a0d4806dbb1309f0ba2980c2c499971f951748f77330e855e4b3236b7973ba",
     "LICENSE-singhkritesh.txt": "bb3a2b750d831f3b7b5d0b4eb62eb42e1eb7968ab408300fab7182cb87672e21",
@@ -12,7 +12,7 @@
     "company-reader.mjs": "b4a580d092e88ed3da1cc2bbdc784ff5f9d4c9119083a167aaa58c8a10ef241c",
     "company.mjs": "a9b7692bae5fbe5f5fc361b291e589ad61ce38e5e81a0582cb2ece57dec9efd7",
     "dashboard.html": "ce9316e0341006c67b237734cd9dd447d051014b50088c51f3e028b8fa331a23",
-    "dashboard.mjs": "b6ea935419deb1499a7b68ae119998cbdefbf571e8d0d5cb0a3d332163aa9f72",
+    "dashboard.mjs": "f374ab68b39127f86637921d57c6fdc25ef215eebab51a9062eabc25bc6fad94",
     "exchange.mjs": "90c7c5d86f8ff4ce136b65a1492ff7d20cab09d412e43993966db21addeb04bb",
     "extract.mjs": "0bf87af44aad32ca34633bed5fb5522233300933e0a1039dc9eb857f2ad91acf",
     "fill-answers.mjs": "5ac7be79d29e93c7cc358e92301fa699a76130025645a48248647deee5fd5b71",
@@ -28,7 +28,7 @@
     "icons/icon48.png": "f05abd0bf5d49627067c88adbebe149c221b95dea698cba66c4a72c9030e32ab",
     "insert-letter.mjs": "b89a7572559d43784c6bbd8c271cee1bad61ec038dc4c225abe7e34862e425a4",
     "local-store.mjs": "e80b69639241ba2ad3f2176cf173a4e454cc266014eaed97342d0c7cd99ca6ce",
-    "manifest.json": "b1383a19a10807d4b2e84ffbf40c11e2e229abd840a1f31ee8850e6e2232e1f0",
+    "manifest.json": "89b7635d35418d88139dfa933bde4651312a21027670e4d57bfe1b7fd9945a31",
     "observation-times.mjs": "03f2e5e1137b17f59616905f018bca04753a13d5ec93813ea7ecbee76c69b659",
     "operator-report.mjs": "b4380fcd43b2bc31f80ef64acddd5d1bbc30ddfecdbb1d09a2b70c6c18bd3774",
     "popup.html": "8f448e5b53c5f1b8a09d30bfc3ed920df64464928f71a794cbd2f6380e17cb45",
@@ -52,7 +52,7 @@
     "transport.mjs": "c691d22b7974cd3f4e9071c94aa276922f2163da788f2903f2f397b7c249333c",
     "triage.mjs": "c48fa13c78a645bfce81a8b00b5462d94cd7e9d4f42b5e6432f1eefe07c2548f",
     "user-decision.mjs": "824a7f1836c54f0a35fc53f92a2add54dc0e169ed36cfc053f375ff7316be35d",
-    "version.mjs": "cd8aef7efe92daa40d0ad8b1b214d8b8298d76b3eda63bdbe6159a785e51ec81",
+    "version.mjs": "6db3dd3de9d0fa8fdf8828c8096041415a8bc80e5bbbbafc38b5fa07a0299a0c",
     "visual-form.mjs": "bdfccc48062c6f82acca688090ce0f86f032378083fcffef33af2124b5802130",
     "work-queue.mjs": "d15fa7cb6ebeda98f6149cd2ad38efe3a912545271b3f7fcc01140a3e95fe0fa",
     "worker.mjs": "ff004b80a6a53171a433ed4f5f81fab8addc9b66de69160a31417f3f4e28f462"

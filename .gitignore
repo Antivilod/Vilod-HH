@@ -50,3 +50,6 @@ Thumbs.db
 .idea/
 coverage/
 TestResults/
+
+# Local Python tooling
+__pycache__/
