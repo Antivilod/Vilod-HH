@@ -63,6 +63,11 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "extension/LICENSE",
+      "bytes": 1099,
+      "sha256": "4eb8f77c2dff8f38507522d73040dafe20443ebec0b509c3988ed00c7dc84986"
+    },
+    {
       "path": "extension/LICENSE-kostindata.txt",
       "bytes": 1067,
       "sha256": "98a0d4806dbb1309f0ba2980c2c499971f951748f77330e855e4b3236b7973ba"
@@ -239,8 +244,8 @@
     },
     {
       "path": "extension/release-ready.json",
-      "bytes": 4976,
-      "sha256": "44d2c247cc77ea905bc55792eec9ac59b125a6e8ec180ddd3d54ae8f92974c49"
+      "bytes": 5060,
+      "sha256": "db5d49bcf26316673980935a7742278b6a7fe26c028ecd70b06723ac8ef1ccdc"
     },
     {
       "path": "extension/response-evidence.mjs",
