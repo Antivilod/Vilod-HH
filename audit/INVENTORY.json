@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "0.13.14",
+  "version": "0.13.15",
   "files": [
     {
       "path": ".gitattributes",
@@ -9,8 +9,23 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 662,
-      "sha256": "7f9b2c64f775098559c3bfdba8c8f954b229b0930b05d345957c74e5e9b0abfe"
+      "bytes": 699,
+      "sha256": "8bcf360b8cd49bd8f1d5f207134676062d14a811003f30f0c69886edf7a181a8"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1099,
+      "sha256": "4eb8f77c2dff8f38507522d73040dafe20443ebec0b509c3988ed00c7dc84986"
+    },
+    {
+      "path": "PRIVACY.md",
+      "bytes": 2246,
+      "sha256": "505fd4193d86aded0279bc543952bb8f1752be01cc679e610ca1f701e2b205c0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 11583,
+      "sha256": "14f996dac1460250b7146f869c459668f88c104fa90d88aea6d3c260bd0ee163"
     },
     {
       "path": "audit/PREPARATION-REPORT.txt",
@@ -48,6 +63,26 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "extension/LICENSE",
+      "bytes": 1099,
+      "sha256": "4eb8f77c2dff8f38507522d73040dafe20443ebec0b509c3988ed00c7dc84986"
+    },
+    {
+      "path": "extension/LICENSE-kostindata.txt",
+      "bytes": 1067,
+      "sha256": "98a0d4806dbb1309f0ba2980c2c499971f951748f77330e855e4b3236b7973ba"
+    },
+    {
+      "path": "extension/LICENSE-singhkritesh.txt",
+      "bytes": 1070,
+      "sha256": "bb3a2b750d831f3b7b5d0b4eb62eb42e1eb7968ab408300fab7182cb87672e21"
+    },
+    {
+      "path": "extension/THIRD_PARTY_NOTICES.txt",
+      "bytes": 921,
+      "sha256": "f09e1cd12cdac5d36907b07821d822f8c673f980c20a2cb9c49802369fc83c6a"
+    },
+    {
       "path": "extension/answers.mjs",
       "bytes": 2235,
       "sha256": "cc454811a949283d0aab4023911890d8deae045c2d57eb05d63191b32d8b9d15"
@@ -80,7 +115,7 @@
     {
       "path": "extension/dashboard.mjs",
       "bytes": 26199,
-      "sha256": "b6ea935419deb1499a7b68ae119998cbdefbf571e8d0d5cb0a3d332163aa9f72"
+      "sha256": "f374ab68b39127f86637921d57c6fdc25ef215eebab51a9062eabc25bc6fad94"
     },
     {
       "path": "extension/exchange.mjs",
@@ -153,16 +188,6 @@
       "sha256": "b89a7572559d43784c6bbd8c271cee1bad61ec038dc4c225abe7e34862e425a4"
     },
     {
-      "path": "extension/LICENSE-kostindata.txt",
-      "bytes": 1067,
-      "sha256": "98a0d4806dbb1309f0ba2980c2c499971f951748f77330e855e4b3236b7973ba"
-    },
-    {
-      "path": "extension/LICENSE-singhkritesh.txt",
-      "bytes": 1070,
-      "sha256": "bb3a2b750d831f3b7b5d0b4eb62eb42e1eb7968ab408300fab7182cb87672e21"
-    },
-    {
       "path": "extension/local-store.mjs",
       "bytes": 11065,
       "sha256": "e80b69639241ba2ad3f2176cf173a4e454cc266014eaed97342d0c7cd99ca6ce"
@@ -170,7 +195,7 @@
     {
       "path": "extension/manifest.json",
       "bytes": 819,
-      "sha256": "b1383a19a10807d4b2e84ffbf40c11e2e229abd840a1f31ee8850e6e2232e1f0"
+      "sha256": "89b7635d35418d88139dfa933bde4651312a21027670e4d57bfe1b7fd9945a31"
     },
     {
       "path": "extension/observation-times.mjs",
@@ -219,8 +244,8 @@
     },
     {
       "path": "extension/release-ready.json",
-      "bytes": 4976,
-      "sha256": "8f9289b666918d48c12a5ee58f8085281f1d24c6dce253071ff6c166606b8129"
+      "bytes": 5060,
+      "sha256": "db5d49bcf26316673980935a7742278b6a7fe26c028ecd70b06723ac8ef1ccdc"
     },
     {
       "path": "extension/response-evidence.mjs",
@@ -278,11 +303,6 @@
       "sha256": "985ffd583d5beb534833724d76d5ce77f38bac9cf0cf4c918f62e1dea5fa4078"
     },
     {
-      "path": "extension/THIRD_PARTY_NOTICES.txt",
-      "bytes": 921,
-      "sha256": "f09e1cd12cdac5d36907b07821d822f8c673f980c20a2cb9c49802369fc83c6a"
-    },
-    {
       "path": "extension/transport.mjs",
       "bytes": 238,
       "sha256": "c691d22b7974cd3f4e9071c94aa276922f2163da788f2903f2f397b7c249333c"
@@ -300,7 +320,7 @@
     {
       "path": "extension/version.mjs",
       "bytes": 32,
-      "sha256": "cd8aef7efe92daa40d0ad8b1b214d8b8298d76b3eda63bdbe6159a785e51ec81"
+      "sha256": "6db3dd3de9d0fa8fdf8828c8096041415a8bc80e5bbbbafc38b5fa07a0299a0c"
     },
     {
       "path": "extension/visual-form.mjs",
@@ -318,19 +338,9 @@
       "sha256": "ff004b80a6a53171a433ed4f5f81fab8addc9b66de69160a31417f3f4e28f462"
     },
     {
-      "path": "LICENSE",
-      "bytes": 1099,
-      "sha256": "4eb8f77c2dff8f38507522d73040dafe20443ebec0b509c3988ed00c7dc84986"
-    },
-    {
-      "path": "PRIVACY.md",
-      "bytes": 2246,
-      "sha256": "505fd4193d86aded0279bc543952bb8f1752be01cc679e610ca1f701e2b205c0"
-    },
-    {
-      "path": "README.md",
-      "bytes": 9709,
-      "sha256": "48d2053e74c61157dfc0c4fc3d56340fa86ba44ef1253eec9966d9716b648629"
+      "path": "tools/backup_report.py",
+      "bytes": 2236,
+      "sha256": "92328d75411259c1e1ea5274c4be96690414601a0f043db4a5ed1011f332f54d"
     },
     {
       "path": "tools/check-public.mjs",
@@ -338,13 +348,24 @@
       "sha256": "47e70e691f47734c096ad86edf97355973a9216f359692ddf0044dc491d8793e"
     },
     {
+      "path": "tools/csv_compare.py",
+      "bytes": 3746,
+      "sha256": "c77f896fd5d7f354bda43a32f64066fbbede647348106de0ef1bba5ed8881cbb"
+    },
+    {
+      "path": "tools/pack/go.mod",
+      "bytes": 57,
+      "sha256": "6b36dc284e22a97c42115a66ab0bc242845baa5a6b7b4f0a92b4278912338931"
+    },
+    {
+      "path": "tools/pack/main.go",
+      "bytes": 3971,
+      "sha256": "4c3b033510d7e301ed50e9ee062d9b5664b1019304f2cbc10adcde2b211b4df0"
+    },
+    {
       "path": "tools/rebuild-release.mjs",
       "bytes": 818,
       "sha256": "3be7f1a0f39ed4a9c7793853373fd8ae8347c6aa47f8aa685549e74100cb88f6"
     }
-  ],
-  "filesCount": 68,
-  "excludes": [
-    "audit/INVENTORY.json (self)"
   ]
 }
