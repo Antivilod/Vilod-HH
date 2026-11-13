@@ -1,5 +1,9 @@
 # Vilod HH
 
+## Download and verify
+
+Download the [0.13.15 extension ZIP](https://github.com/Antivilod/Vilod-HH/releases/tag/v0.13.15) and the SHA256SUMS.txt file from the same release. On Windows, run `Get-FileHash .\Vilod-HH-0.13.15.zip -Algorithm SHA256` and compare the hash. In Chrome, load the extracted `extension` folder containing `manifest.json`. Keep that folder on disk after installation.
+
 Расширение Google Chrome для работы с вакансиями HeadHunter. Помогает сохранять вакансии, собирать информацию о работодателях и передавать материалы внешнему ИИ-помощнику для анализа и подготовки индивидуальных сопроводительных писем.
 
 Версия: **0.13.15**. Публичная версия поставляется с пустым профилем, без личных данных и истории откликов. Собственный код можно использовать и адаптировать под свои задачи по лицензии MIT.
